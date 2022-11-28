@@ -1,0 +1,2 @@
+#LavrBot
+token="5513874565:AAFF4timB6GJfMw-G9Q5KUHCFadTgyqUfEg"
